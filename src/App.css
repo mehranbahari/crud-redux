@@ -1,0 +1,17 @@
+.loader {
+  width: 50px;
+  height: 50px;
+  border: 10px solid #ccc;
+  border-radius: 50%;
+  border-top: 10px solid rgb(7, 110, 110);
+  animation: anim 1s infinite linear;
+  margin: 50px auto;
+}
+@keyframes anim {
+  from {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

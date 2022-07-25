@@ -1,0 +1,36 @@
+{
+  "logs": [
+    {
+      "message": "very good😎😍",
+      "tech": "mehran bahari",
+      "attention": false,
+      "date": "2022-03-24T15:44:37.250Z",
+      "id": 1
+    },
+    {
+      "message": "msg11",
+      "tech": "mehran bahari",
+      "attention": true,
+      "date": "2022-04-08T09:18:09.953Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "mehran",
+      "lastName": "bahari",
+      "id": 4
+    },
+    {
+      "firstName": "ali",
+      "lastName": "rajabi",
+      "id": 7
+    },
+    {
+      "firstName": "samad",
+      "lastName": "ahadi",
+      "date": "2022-07-25T15:40:59.845Z",
+      "id": 8
+    }
+  ]
+}
